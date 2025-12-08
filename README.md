@@ -1,4 +1,4 @@
-# Individual_Project_Katherine_Jimenez
+# Project_Katherine_Jimenez
 # Economic Growth, CO₂ Emissions, and Global Temperature Change  
 ### Data Analysis Project (1960–2023)
 
